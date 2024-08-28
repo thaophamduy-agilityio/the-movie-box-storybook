@@ -1,0 +1,19 @@
+{
+  "headers": [
+    {
+      "source": "/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    }
+  ],
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "pnpm build-storybook",
+  "devCommand": "pnpm storybook",
+  "installCommand": "pnpm install",
+  "framework": null,
+  "outputDirectory": "./storybook-static"
+}

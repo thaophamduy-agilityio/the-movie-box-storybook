@@ -1,0 +1,20 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  background: url('src/assets/images/bg-main.webp') center top no-repeat;
+}
+
+.home-page {  
+  padding: 2.5rem 2.8125rem;
+  display: grid;
+  grid-template-rows: auto auto auto 1fr auto;
+}
+
+.icon-search {
+  background: url('src/assets/images/icon-search.svg') center no-repeat;
+  padding: 5px;
+}
+
+.img-item {
+  height: revert-layer;
+}

@@ -1,0 +1,37 @@
+/* Icons */
+.icon-search {
+  background: url('src/assets/images/icon-search.svg') center no-repeat;
+  padding: 5px;
+}
+
+.icon-display-grid {
+  background: url('src/assets/icons/grid-icon.svg') center no-repeat;
+}
+
+.icon-display-grid.active {
+  background: url('src/assets/icons/grid-icon-active.svg') center no-repeat;
+}
+
+.icon-display-list {
+  background: url('src/assets/icons/list-icon.svg') center no-repeat;
+}
+
+.icon-display-list.active {
+  background: url('src/assets/icons/list-icon-active.svg') center no-repeat;
+}
+
+.icon-facebook {
+  background: url('src/assets/icons/facebook-icon.svg') center no-repeat;
+}
+
+.icon-pinterest {
+  background: url('src/assets/icons/pinterest-icon.svg') center no-repeat;
+}
+
+.icon-twitter {
+  background: url('src/assets/icons/twitter-icon.svg') center no-repeat;
+}
+
+.icon-instagram {
+  background: url('src/assets/icons/instagram-icon.svg') center no-repeat;
+}
