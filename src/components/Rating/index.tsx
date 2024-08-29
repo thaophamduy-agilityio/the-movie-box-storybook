@@ -23,7 +23,7 @@ const Rating = ({
         <div>
           <img
             className="inline-block mr-1.5"
-            src="/src/assets/images/rating-icon.svg"
+            src="/images/rating-icon.svg"
             width={71}
             height={10}
             alt="star"

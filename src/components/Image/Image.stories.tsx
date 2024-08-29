@@ -28,7 +28,7 @@ type Story = StoryObj<typeof meta>;
 // More on writing stories with args: https://storybook.js.org/docs/writing-stories/args
 export const Default: Story = {
   args: {
-    imageSrc: "src/assets/images/movies/logan.webp",
+    imageSrc: "/images/movies/logan.webp",
     altText: "Logan",
     size: {
       width: 146,

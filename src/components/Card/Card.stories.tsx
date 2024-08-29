@@ -31,7 +31,7 @@ type Story = StoryObj<typeof meta>;
 export const Default: Story = {
   args: {
     publicYear: 2017,
-    imgSrc: "src/assets/images/movies/logan.webp",
+    imgSrc: "/images/movies/logan.webp",
     title: "Logan",
     genres: ["Action", "Adventure", "Fantasy"],
     rating: 4.2,

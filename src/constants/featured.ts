@@ -1,5 +1,5 @@
 export const FEATURED_MOVIE = {
-  imgSrc: "src/assets/images/bg-hero.webp",
+  imgSrc: "/images/bg-hero.webp",
   title: "Wrath of the titans",
   genres: ["Fantasy", "Animation", "Family"],
   rating: 3.4,
